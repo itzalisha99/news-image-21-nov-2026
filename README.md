@@ -1,8 +1,8 @@
 # The World in One Day — 21 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261121)
-[![make.fun entry](https://img.shields.io/badge/make.fun-entry-green)](https://github.com/itzalisha99/news-image-21-nov-2026)
-[![make.fun agent](https://img.shields.io/badge/make.fun-agent-purple)](https://make.fun)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/itzalisha99/news-image-21-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/itzalisha99/news-image-21-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 One image that sums up the world's news of **Saturday 21 November 2026**:
 46 stories across 7 regions, each with the source that reported it that day,
